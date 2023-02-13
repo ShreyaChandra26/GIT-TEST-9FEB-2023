@@ -2,3 +2,7 @@ body{
     padding:0 px;
     margin:0 px;
 }
+
+header nav ul{
+    list-style: none;
+}
